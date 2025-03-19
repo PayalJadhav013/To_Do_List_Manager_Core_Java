@@ -21,8 +21,8 @@ ToDoListManager/
 │   ├── main/
 │   │   ├── java/
 │   │   │   ├── com.todolist/
-│   │   │   │   ├── Main.java            # Handles everything (Menu, CRUD operations)
-│   │   │   │   ├── DatabaseUtil.java    # Database connection
-│   │   │   │   ├── Task.java            # Task model
-│── pom.xml                              # Dependencies
-│── db.sql                               # Database schema
+│   │   │   │   ├── Main.java            
+│   │   │   │   ├── DatabaseUtil.java    
+│   │   │   │   ├── Task.java            
+│── pom.xml                              
+│── db.sql                               
