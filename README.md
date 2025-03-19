@@ -14,15 +14,6 @@ This is a simple console-based **To-Do List Manager** built using Java and Postg
 - **Java** (JDBC for database interaction)
 - **PostgreSQL** (Database for task storage)
 - **Maven** (Build automation tool)
+- **Exception Handling & Menu-Driven Approach
 
-## 📂 Project Structure
-ToDoListManager/
-│── src/
-│   ├── main/
-│   │   ├── java/
-│   │   │   ├── com.todolist/
-│   │   │   │   ├── Main.java            
-│   │   │   │   ├── DatabaseUtil.java    
-│   │   │   │   ├── Task.java            
-│── pom.xml                              
-│── db.sql                               
+                             
